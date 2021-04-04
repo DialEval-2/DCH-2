@@ -21,7 +21,8 @@ Links
 
 # Registration
 
-To register NTCIR-16 DialEval-2 Task and **obtain the dataset**, please send an email to dialeval2org@list.waseda.jp  with the following information so that we can send you the training data.
+To register NTCIR-16 DialEval-2 Task and **obtain the dataset**, please send an email to [dialeval2org@list.waseda.jp](mailto:dialeval2org@list.waseda.jp) with the following information so that we can send you the training data.
+
 - Team Name (e.g. Waseda)
 - Principal investigator’s name, affilication, email address
 - Names, affiliations, email addresses of other team members
