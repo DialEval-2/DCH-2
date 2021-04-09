@@ -1,8 +1,6 @@
-
-
 # Conidtions and Terms
 
-### Dialogues
+## Dialogues
 
 DialEval-2 organizers do not own the copyright of the dialogues and the dataset is only for researchers who wish to use the dialogues for non-commercial research and/or educational purposes.
 
@@ -12,14 +10,13 @@ DialEval-2 organizers do not own the copyright of the dialogues and the dataset 
 - The DialEval-2 organizers  reserve the right to terminate Researcher's access to the Database at any time.
 - If Researcher is employed by a for-profit, commercial entity, Researcher's employer shall also be bound by these terms and conditions, and Researcher hereby represents that he or she is fully authorized to enter into this agreement on behalf of such employer.
 
-
-### Annotations
+## Annotations
 
 The annotations are licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>
 
 <img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" />
 
-### Software
+## Software
 
 Copyright (C)  2021  DialEval-2 Organizers
 
