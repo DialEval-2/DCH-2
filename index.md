@@ -151,4 +151,8 @@ Comming Soon
 
 # Have questions?
 
-Please contact: [dialeval2org@list.waseda.jp](mailto:dialeval2org@list.waseda.jp)        
+Please contact: [dialeval2org@list.waseda.jp](mailto:dialeval2org@list.waseda.jp)
+
+# Conditions and Terms
+
+See https://dialeval-2.github.io/dch-2/terms
