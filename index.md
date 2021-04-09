@@ -136,4 +136,4 @@ Please contact: [dialeval2org@list.waseda.jp](mailto:dialeval2org@list.waseda.jp
 
 ## Conditions and Terms
 
-See https://dialeval-2.github.io/dch-2/terms
+See [https://dialeval-2.github.io/dch-2/terms](https://dialeval-2.github.io/dch-2/terms)
