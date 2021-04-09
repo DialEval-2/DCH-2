@@ -18,7 +18,7 @@ Links
 - [Introduction of the training dataset (current page)](https://dialeval-2.github.io/dataset/)
 - [NTCIR-16](http://research.nii.ac.jp/ntcir/ntcir-16/index.html)
 
-## Registration
+# Registration
 
 To register NTCIR-16 DialEval-2 Task and **obtain the dataset**, please send an email to [dialeval2org@list.waseda.jp](mailto:dialeval2org@list.waseda.jp) with the following information so that we can send you the training data.
 
@@ -29,13 +29,13 @@ To register NTCIR-16 DialEval-2 Task and **obtain the dataset**, please send an 
 
 Later, NII will require you to register to NTCIR tasks through their website, but please contact us by email first
 
-## Leaderboard
+# Leaderboard
 
 Comming Soon
 
-## Overview of the DCH-2 Dataset
+# Overview of the DCH-2 Dataset
 
-### Training Data
+## Training Data
 
 The Chinese training dataset contains 4,390 (3,700 for training + 390 for dev + 300 for test that were used at DialEval-1) customer-helpdesk dialgoues which are crawled from [Weibo](weibo.com). All of these dialogues are annotated by 19 annotators.
 
@@ -53,15 +53,15 @@ In the DCH-2 dataset, we finished the translation of all the Chinese dialogues, 
   - test_cn.json (300 dialogues)
   - test_en.json (300 dialogues)
 
-### Test Data
+## Test Data
 
 Will be released in Dec 2021 according to the task schedule.
 
-### Annotation
+## Annotation
 
 We hired 19 Chinese students  to annotate the training/dev dataset in 2018. In 2019, the test dataset of DialEval-1 were annotated by another group of annotators. Thus, there may be a gap between the training data and test data, as the dialogue annotation is quite subjective.
 
-## Format of the JSON file
+# Format of the JSON file
 
 Each file is in JSON format with UTF-8 encoding.
 
@@ -79,10 +79,9 @@ Each element of the turns field contains the following fields:
 Each element of **annotations** contains the following fields:
 
 - **nugget**: The list of nugget types for each turn (see details below).
-
 - **quality**: A dictonary consists of the subjetive dialogue quality scores: A-score, S-score, and E-score (see details below).
 
-### Nugget Types
+## Nugget Types
 
 - CNUG0: Customer trigger (problem stated)
 - CNUG*: Customer goal (solution confirmed)
@@ -94,7 +93,7 @@ Each element of **annotations** contains the following fields:
 
 <img src="https://i.postimg.cc/TPqH4ttz/nugget-example.png" alt="drawing" style="width:600px;"/>
 
-### Dialogue Quality
+## Dialogue Quality
 
 - A-score: Task **A**ccomplishment (Has the problem been solved? To what extent?)
 - S-score: Customer **S**atisfaction of the dialogue (not of the product/service or the company)
@@ -102,13 +101,13 @@ Each element of **annotations** contains the following fields:
 
 Scale: [2, 1, 0, -1, -2]
 
-### Note
+## Note
 
 To protect the privacy, some sensitive information in the dialogue data has been masked. For example, we replaced  telephone numbers with 123456789, and email addresses with XXX@YYY.com
 
-## Evaluation
+# Evaluation
 
-### Metrics
+## Metrics
 
 During the data annotaiton, we noticed that annotators' assessment on dialgoues are highly subjective and are hard to consolidate them into one gold label. Thus, we proposed to preserve the diverse views in the annotations “as is” and leverage them at the step of evaluation measure calculation.
 
@@ -126,14 +125,14 @@ For the details about the metrics, please vistit:
 - [NTCIR-16 Dialogue Evaluation Task Definition](https://waseda.app.box.com/v/dialeval2taskdef)
 - [Comparing Two Binned Probability Distributions for Information Access Evaluation](https://waseda.app.box.com/v/SIGIR2018preprint).
 
-### Test and Submission
+## Test and Submission
 
 Comming Soon
 
-## Have questions?
+# Have questions?
 
 Please contact: [dialeval2org@list.waseda.jp](mailto:dialeval2org@list.waseda.jp)
 
-## Conditions and Terms
+# Conditions and Terms
 
 See [https://dialeval-2.github.io/dch-2/terms](https://dialeval-2.github.io/dch-2/terms)
