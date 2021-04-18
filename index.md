@@ -37,21 +37,17 @@ Comming Soon
 
 ## Training Data
 
-The Chinese training dataset contains 4,390 (3,700 for training + 390 for dev + 300 for test that were used at DialEval-1) customer-helpdesk dialgoues which are crawled from [Weibo](weibo.com). All of these dialogues are annotated by 19 annotators.
+The Chinese training dataset contains 4,390 (4,090 for training + 300 for dev) customer-helpdesk dialgoues which are crawled from [Weibo](weibo.com). All of these dialogues are annotated by 19 annotators.
 
-In the DCH-2 dataset, we finished the translation of all the Chinese dialogues, so the English dataset contains 4,390 dialogues as well. They are manually translated from the Chinese dataset. The English dataset shares the same annotations with the Chinese dataset.
+In the DCH-2 dataset, as we finished the translation of all the Chinese dialogues, the English dataset contains 4,390 dialogues as well. All the English dialogues are manually translated from the Chinese dataset. The English dataset shares the same annotations with the Chinese dataset.
 
-- Training set of DialEval-1
-  - train_cn.json (3,700 Chinese dialogues)
-  - train_en.json (3,700 English dialogues: 2,251 used as training set at DialEval-1 + 1,449 newly translated)
+- Training set
+  - dch2_train_cn.json (4,090 Chinese dialogues: 3,700 as training set + 390 as dev set at DialEval-1)
+  - dch2_train_en.json (4,090 English dialogues: 2,251 as training set + 390 as dev set at DialEval-1 + 1,449 newly translated)
 
-- Dev set of DialEval-1
-  - dev_cn.json (390 dialogues)
-  - dev_en.json (390 dialogues)
-
-- Test set of DialEval-1
-  - test_cn.json (300 dialogues)
-  - test_en.json (300 dialogues)
+- Dev set
+  - dch2_dev_cn.json (300 dialogues, used as test set at DialEval-1)
+  - dch2_dev_en.json (300 dialogues, used as test set at DialEval-1)
 
 ## Test Data
 
