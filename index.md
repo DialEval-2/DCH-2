@@ -20,8 +20,6 @@ Links
 
 # Registration
 
-To obtain the dataset, please access fill [our user agreement form](https://forms.gle/dk3wjqFTEF9k8SAe6).
-
 To register NTCIR-16 DialEval-2 Task, please send an email to [dialeval2org@list.waseda.jp](mailto:dialeval2org@list.waseda.jp) with the following information.
 
 - Team Name (e.g. Waseda)
@@ -30,6 +28,10 @@ To register NTCIR-16 DialEval-2 Task, please send an email to [dialeval2org@list
 - Subtasks that you plan to participate: Chinese, English, or BOTH
 
 Later, NII will require you to register to NTCIR tasks through their website, but please contact us by email first。
+
+# Access to the dataset
+
+To obtain the dataset, please fill and submit [our user agreement form](https://forms.gle/dk3wjqFTEF9k8SAe6).
 
 # Leaderboard
 
