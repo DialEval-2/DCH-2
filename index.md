@@ -100,7 +100,7 @@ To obtain the dataset, please fill and submit [our user agreement form](https://
 
 # Conditions and Terms
 
-See [https://dialeval-2.github.io/DCH-2/terms](https://dialeval-2.github.io/DCH-2/terms)
+See [here](https://dialeval-2.github.io/DCH-2/terms).
 
 # Have questions?
 

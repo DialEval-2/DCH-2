@@ -33,7 +33,7 @@ Comming Soon
 
 # Conditions and Terms
 
-See [https://dialeval-2.github.io/DCH-2/terms](https://dialeval-2.github.io/DCH-2/terms)
+See [here](https://dialeval-2.github.io/DCH-2/terms).
 
 # Have questions?
 
@@ -42,6 +42,6 @@ Please contact: [dialeval2org@list.waseda.jp](mailto:dialeval2org@list.waseda.jp
 # Links
 
 - [Homepage of DialEval-2 Task](http://sakailab.com/dialeval2/)
-- [DialEval-2 Details (current page)](https://dialeval-2.github.io/dialeval2/DCH-2/taskdetails)
+- [DialEval-2 Details (current page)](https://dialeval-2.github.io/DCH-2/taskdetails)
 - [Introduction of the training dataset](https://dialeval-2.github.io/DCH-2/)
 - [NTCIR-16](http://research.nii.ac.jp/ntcir/ntcir-16/index.html)
