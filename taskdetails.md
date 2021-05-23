@@ -23,6 +23,10 @@ To register NTCIR-16 DialEval-2 Task, please send an email to [dialeval2org@list
 
 Later, NII will require you to register to NTCIR tasks through their website, but please contact us by email first.
 
+# Training data
+
+To obtain the training data, see [here](https://dialeval-2.github.io/DCH-2/).
+
 # Leaderboard
 
 Comming Soon
@@ -35,7 +39,7 @@ See [https://dialeval-2.github.io/DCH-2/terms](https://dialeval-2.github.io/DCH-
 
 Please contact: [dialeval2org@list.waseda.jp](mailto:dialeval2org@list.waseda.jp)
 
-Links
+# Links
 
 - [Homepage of DialEval-2 Task](http://sakailab.com/dialeval2/)
 - [DialEval-2 Details (current page)](https://dialeval-2.github.io/dialeval2/DCH-2/taskdetails)

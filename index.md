@@ -1,6 +1,6 @@
 # DCH-2: Training Data for the DialEval-2 Task
 
-For details of the NTCIR-16 Dialogue Evaluation Task (DialEval-2), see [here](https://dialeval-2.github.io/dialeval2/DCH-2/taskdetails)
+For details of the NTCIR-16 Dialogue Evaluation Task (DialEval-2), see [here](https://dialeval-2.github.io/dialeval2/DCH-2/taskdetails).
 
 # Overview of the DCH-2 Dataset
 
@@ -106,8 +106,9 @@ See [https://dialeval-2.github.io/DCH-2/terms](https://dialeval-2.github.io/DCH-
 
 Please contact: [dialeval2org@list.waseda.jp](mailto:dialeval2org@list.waseda.jp)
 
-Links
+# Links
 
 - [Homepage of DialEval-2 Task](http://sakailab.com/dialeval2/)
+- [DialEval-2 Details](https://dialeval-2.github.io/DCH-2/taskdetails)
 - [Introduction of the training dataset (current page)](https://dialeval-2.github.io/DCH-2/)
 - [NTCIR-16](http://research.nii.ac.jp/ntcir/ntcir-16/index.html)
