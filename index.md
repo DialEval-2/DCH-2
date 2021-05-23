@@ -15,7 +15,7 @@ In DialEval-2, we consider annotations ground truth, and participants are requir
 Links
 
 - [Homepage of DialEval-2 Task](http://sakailab.com/dialeval2/)
-- [Introduction of the training dataset (current page)](https://dialeval-2.github.io/dataset/)
+- [Introduction of the training dataset (current page)](https://dialeval-2.github.io/DCH-2/)
 - [NTCIR-16](http://research.nii.ac.jp/ntcir/ntcir-16/index.html)
 
 # Registration
@@ -27,7 +27,7 @@ To register NTCIR-16 DialEval-2 Task, please send an email to [dialeval2org@list
 - Names, affiliations, email addresses of other team members
 - Subtasks that you plan to participate: Chinese, English, or BOTH
 
-Later, NII will require you to register to NTCIR tasks through their website, but please contact us by email first。
+Later, NII will require you to register to NTCIR tasks through their website, but please contact us by email first.
 
 # Access to the dataset
 
