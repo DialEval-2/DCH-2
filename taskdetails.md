@@ -1,3 +1,7 @@
+---
+title: Details of NTCIR-16 Dialogue Evaluation Task (DialEval-2)
+---
+
 # NTCIR-16 Dialogue Evaluation Task (DialEval-2)
 
 Recently, many reserachers are trying to build automatic helpdesk systems. However, there are very few methods to evaluate such systems. In **DialEval-2**, we aim to explore methods to evaluate task-oriented, multi-round, textual dialogue systems automatically. This dataset have the following features:
