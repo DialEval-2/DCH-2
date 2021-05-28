@@ -74,30 +74,6 @@ Scale: [2, 1, 0, -1, -2]
 
 To protect the privacy, some sensitive information in the dialogue data has been masked. For example, we replaced  telephone numbers with 123456789, and email addresses with XXX@YYY.com
 
-# Evaluation
-
-## Metrics
-
-During the data annotaiton, we noticed that annotators' assessment on dialgoues are highly subjective and are hard to consolidate them into one gold label. Thus, we proposed to preserve the diverse views in the annotations “as is” and leverage them at the step of evaluation measure calculation.
-
-Instead of juding whether the estimated label is equal to the gold label, we compare the difference between the estiamted distributions and the gold distributions calculaed by 19 anntators' annotations). Specifically, we employ these metrics for quality sub-task and nugget sub-task:
-
-- Quality:
-  - **NMD**: Normalised Match Distance.
-  - **RSNOD**: Root Symmetric Normalised Order-aware Divergence
-- Nugget:
-  - **RNSS**: Root Normalised Sum of Squared errors
-  - **JSD**: Jensen-Shannon divergence
-
-For the details about the metrics, please vistit:
-
-- [NTCIR-16 Dialogue Evaluation Task Definition](https://waseda.app.box.com/v/dialeval2taskdef)
-- [Comparing Two Binned Probability Distributions for Information Access Evaluation](https://waseda.app.box.com/v/SIGIR2018preprint).
-
-## Test and Submission
-
-Comming Soon
-
 # Access to the dataset
 
 To obtain the dataset, please fill and submit [our user agreement form](https://forms.gle/dk3wjqFTEF9k8SAe6).

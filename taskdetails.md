@@ -35,6 +35,30 @@ To obtain the training data, see [here](https://dialeval-2.github.io/DCH-2/).
 
 Comming Soon
 
+# Evaluation
+
+## Metrics
+
+During the data annotaiton, we noticed that annotators' assessment on dialgoues are highly subjective and are hard to consolidate them into one gold label. Thus, we proposed to preserve the diverse views in the annotations “as is” and leverage them at the step of evaluation measure calculation.
+
+Instead of juding whether the estimated label is equal to the gold label, we compare the difference between the estiamted distributions and the gold distributions calculaed by 19 anntators' annotations). Specifically, we employ these metrics for quality sub-task and nugget sub-task:
+
+- Quality:
+  - **NMD**: Normalised Match Distance.
+  - **RSNOD**: Root Symmetric Normalised Order-aware Divergence
+- Nugget:
+  - **RNSS**: Root Normalised Sum of Squared errors
+  - **JSD**: Jensen-Shannon divergence
+
+For the details about the metrics, please vistit:
+
+- [NTCIR-16 Dialogue Evaluation Task Definition](https://waseda.app.box.com/v/dialeval2taskdef)
+- [Comparing Two Binned Probability Distributions for Information Access Evaluation](https://waseda.app.box.com/v/SIGIR2018preprint).
+
+## Test and Submission
+
+Comming Soon
+
 # Conditions and Terms
 
 See [here](https://dialeval-2.github.io/DCH-2/terms).
