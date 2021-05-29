@@ -59,10 +59,6 @@ For the details about the metrics, please vistit:
 
 Comming Soon
 
-# Conditions and Terms
-
-See [here](https://dialeval-2.github.io/DCH-2/terms).
-
 # Have questions?
 
 Please contact: [dialeval2org@list.waseda.jp](mailto:dialeval2org@list.waseda.jp)
