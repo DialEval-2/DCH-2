@@ -1,5 +1,5 @@
 ---
-title: Details of NTCIR-16 Dialogue Evaluation Task (DialEval-2)
+title: Detail of the NTCIR-16 Dialogue Evaluation Task (DialEval-2)
 ---
 
 # NTCIR-16 Dialogue Evaluation Task (DialEval-2)
