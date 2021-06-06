@@ -18,14 +18,20 @@ In DialEval-2, we consider annotations ground truth, and participants are requir
 
 # Registration
 
-To register NTCIR-16 DialEval-2 Task, please send an email to [dialeval2org@list.waseda.jp](mailto:dialeval2org@list.waseda.jp) with the following information.
+To participate in the DialEval-2 task, please do both (1) and (2).
 
-- Team Name (e.g. Waseda)
-- Principal investigator’s name, affilication, email address
-- Names, affiliations, email addresses of other team members
-- Subtasks that you plan to participate: Chinese, English, or BOTH
+(1) Visit this NTCIR-16 page, check the information there (e.g. "what participants must do"),
+and register online. (You can register to other NTCIR-16 tasks as well.)
+[http://research.nii.ac.jp/ntcir/ntcir-16/howto.html](http://research.nii.ac.jp/ntcir/ntcir-16/howto.html)
 
-Later, NII will require you to register to NTCIR tasks through their website, but please contact us by email first.
+(2) Send the following information to [dialeval2org@list.waseda.jp](mailto:dialeval2org@list.waseda.jp) .
+
+    Team Name (e.g. Waseda)
+    Principal investigator’s name, affilication, email address
+    Names, affiliations, email addresses of other team members
+    Subtasks that you plan to participate: Chinese, English, or BOTH
+
+Please tell us in your email message that you have also completed Step (1).
 
 # Training data
 
